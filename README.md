@@ -16,7 +16,7 @@ I'm interested in machine learning, data and full-stack development, and I work 
 
 ## Skills
 
-- **Languages:** Python, Java, SQL, TypeScript / JavaScript, Go, C / C++, Swift
+- **Languages:** Python, Java, SQL, TypeScript / JavaScript, Go, C / C++
 - **Data & ML:** machine learning (LightGBM), information retrieval (BM25, TF-IDF)
 - **Web & databases:** React, Node.js, Express, Next.js, PostgreSQL
 - **Tools:** Git, Docker, PowerShell
